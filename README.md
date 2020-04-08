@@ -4,7 +4,7 @@
 <p align="center">
   <strong>
     Uma aplicação Fullsatck Web-Mobile para ajudar ONGs a divilguar seus casos que necessitam de ajuda comunitária.
-     <img src="src/assets/logo.svg" width="100"/><img src="src/assets/heroes.png" width="300"/>
+     <img src="https://github.com/LeoGomes0919/frontend/blob/master/src/assets/logo.svg" width="100"/><img                src="https://github.com/LeoGomes0919/frontend/blob/master/src/assets/logo.svg" width="300"/>
   </strong>
 </p>
   
